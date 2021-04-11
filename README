@@ -1,0 +1,17 @@
+
+
+To compile my project, run this command on the command line:
+
+g++ -o main main.cpp trie.cpp
+
+To execute my project, run this command:
+
+./main
+
+To compile the test file for my project, run this command on the command line:
+
+g++ -o test test.cpp trie.cpp
+
+To execute the test files, run this command:
+
+./test
