@@ -1,10 +1,10 @@
 
 
-To compile my project, run this command on the command line:
+To this project, run this command on the command line:
 
 g++ -o main main.cpp trie.cpp
 
-To execute my project, run this command:
+To execute this project, run this command:
 
 ./main
 
